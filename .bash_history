@@ -71,3 +71,10 @@ output * bg ~/Pictures/wallpapers/casa-kame-de-dragon-ball_3840x2160_xtrafondos.
 sudo pacman -S swaybg
 fastfetch
 code .
+ls
+c
+gp
+source ~/.bashrc 
+hconf
+conf
+sconf

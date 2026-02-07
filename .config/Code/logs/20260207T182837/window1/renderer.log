@@ -2,3 +2,5 @@
 2026-02-07 18:28:41.046 [info] MCP Registry configured: https://api.mcp.github.com
 2026-02-07 18:28:41.172 [info] Settings Sync: Account status changed from uninitialized to unavailable
 2026-02-07 18:28:42.446 [info] [perf] Render performance baseline is 181ms
+2026-02-07 18:51:44.831 [error] [Extension Host] (node:1502) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
