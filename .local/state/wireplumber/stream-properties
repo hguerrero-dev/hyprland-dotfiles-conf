@@ -1,0 +1,4 @@
+[stream-properties]
+Audio/Sink:node.name:auto_null={"channelVolumes":[1.000000, 1.000000], "volume":1.000000, "channelMap":["FL", "FR"], "mute":false}
+Output/Audio:application.name:Zen={"channelVolumes":[0.538889, 0.538889], "volume":1.000000, "channelMap":["FL", "FR"], "mute":false}
+Input/Audio:media.role:Music={"channelVolumes":[1.000000, 1.000000], "volume":1.000000, "mute":false, "channelMap":["FL", "FR"]}

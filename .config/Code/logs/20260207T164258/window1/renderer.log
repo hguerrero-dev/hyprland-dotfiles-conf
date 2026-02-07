@@ -1,0 +1,8 @@
+2026-02-07 16:42:59.626 [info] Started local extension host with pid 16257.
+2026-02-07 16:43:01.356 [info] MCP Registry configured: https://api.mcp.github.com
+2026-02-07 16:43:01.438 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-02-07 16:43:02.440 [info] [perf] Render performance baseline is 136ms
+2026-02-07 17:48:35.891 [error] spawn truecolor ENOENT: Error: spawn truecolor ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)

@@ -1,0 +1,9 @@
+2026-02-07 16:43:00.597 [info] Extension host with pid 16257 started
+2026-02-07 16:43:00.597 [info] Skipping acquiring lock for /home/hguerrero/.config/Code/User/workspaceStorage/653d574bdfdbceb06201def866ad287b.
+2026-02-07 16:43:00.758 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-02-07 16:43:00.805 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-02-07 16:43:01.006 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2026-02-07 16:43:01.059 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-02-07 16:43:01.158 [info] Eager extensions activated
+2026-02-07 16:43:01.200 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-02-07 16:43:01.204 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
