@@ -11,7 +11,7 @@
         ],
         "emptyWindows": []
     },
-    "windowControlHeight": 35,
+    "windowControlHeight": 42,
     "profileAssociations": {
         "workspaces": {
             "file:///home/hguerrero": "__default__profile__"
@@ -26,8 +26,9 @@
                 "mode": 1,
                 "x": 0,
                 "y": 0,
-                "width": 1151,
-                "height": 974
+                "width": 1916,
+                "height": 974,
+                "zoomLevel": 1
             }
         },
         "openedWindows": []
