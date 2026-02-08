@@ -5,10 +5,12 @@ set $menu wofi --show drun
 
 #--- ATAJOS DE TECLADO ---
 bindsym $mod+Return exec $term
+bindsym $mod+v exec code
 bindsym $mod+d exec $menu
 bindsym $mod+q kill
 bindsym $mod+Shift+e exec swaymsg exit
 bindsym $mod+b exec zen-browser
+bindsym $mod+p exec $code
 
 #--- INPUT & OUTPUT ---
 # Moví el fondo de pantalla aquí arriba para que cargue primero
