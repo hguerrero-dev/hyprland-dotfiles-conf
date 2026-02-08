@@ -78,3 +78,17 @@ source ~/.bashrc
 hconf
 conf
 sconf
+btop
+fastfetch
+git statys
+git status
+git add .
+[200~git add ~/Pictures/wallpaper.jpg
+git commit -m "Añadido wallpaper oficial"~
+git push'
+git push
+git status
+source ~/.bashrc
+gp
+ls
+ll
