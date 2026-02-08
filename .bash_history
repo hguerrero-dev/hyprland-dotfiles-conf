@@ -92,3 +92,4 @@ source ~/.bashrc
 gp
 ls
 ll
+code .
